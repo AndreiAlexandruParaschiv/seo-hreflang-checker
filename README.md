@@ -1,2 +1,2 @@
-# seo-internal-links-sitemap
+# seo-broken-links-sitemap
 Internal broken links from the sitemap
