@@ -1,0 +1,23 @@
+{
+  "name": "seo-hreflang-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hreflang-checker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreiAlexandruParaschiv/seo-hreflang-checker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreiAlexandruParaschiv/seo-hreflang-checker/issues"
+  },
+  "homepage": "https://github.com/AndreiAlexandruParaschiv/seo-hreflang-checker#readme",
+  "dependencies": {
+    "puppeteer": "24.10.0"
+  }
+}
