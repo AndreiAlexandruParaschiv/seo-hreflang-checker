@@ -6,7 +6,7 @@ This tool checks web pages for common hreflang tag implementation issues. It use
 
 ## Prerequisites
 
-- Node.js (which includes npm) must be installed on your system.
+- Node.js must be installed on your system. npm (Node Package Manager) is included with Node.js by default. You can download and install Node.js from [https://nodejs.org/](https://nodejs.org/).
 
 ## Setup
 
